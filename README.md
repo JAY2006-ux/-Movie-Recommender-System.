@@ -121,27 +121,24 @@ We use The Movie Database (TMDB) API to get the poster path using the movie ID.
 
 ⚠️ Note: You'll need a TMDB API key and internet connection for poster fetching to work.
 ▶️ Running the App
+
 Install the dependencies:
 
-bash
-
 pip install -r requirements.txt
-Then run the Streamlit app:
 
-bash
+##Then run the Streamlit app:
 
 streamlit run App.py
 
 -> requirements.txt
-txt
-Copy
-Edit
 streamlit
 pandas
 requests
 Pillow
 
+
 🙌 Author
+
 Jay Girase
 Built with ❤️ using Python and Streamlit.
 
